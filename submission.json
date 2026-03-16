@@ -1,0 +1,7 @@
+{
+  "prompt": "A vast wall of hundreds of human mouths filling the entire frame edge to edge, photographically rendered, hyper-detailed. On the left side, mouths are open mid-speech — warm skin tones, vivid, alive, slightly blurred as if mid-sound. Moving rightward, mouths progressively close, grey, crack like old stone, then crumble into dust and finally disappear into bare concrete wall. The transition from living speech to total silence is stark and alarming. Bottom-right corner: only 3 or 4 mouths remain barely open. No text, no labels, no charts, no maps, no globes. Cinematic lighting, high contrast, photorealistic, shot on large format camera, stark and urgent mood.",
+  "model": "DALL-E 3",
+  "dataset_name": "UNESCO Atlas of the World's Languages in Danger + Endangered Languages Project",
+  "dataset_url": "https://www.endangeredlanguages.com/about-catalogue",
+  "insight": "Of ~7000 languages spoken today, 2473 are endangered and 230 have gone extinct since 1950 — roughly one language silenced every two weeks, with 146 languages having fewer than 10 speakers remaining."
+}
