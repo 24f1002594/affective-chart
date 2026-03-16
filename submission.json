@@ -3,5 +3,6 @@
   "model": "DALL-E 3",
   "dataset_name": "UNESCO Atlas of the World's Languages in Danger + Endangered Languages Project",
   "dataset_url": "https://www.endangeredlanguages.com/about-catalogue",
+  "publisher_email": "24f1002594@ds.study.iitm.ac.in",
   "insight": "Of ~7000 languages spoken today, 2473 are endangered and 230 have gone extinct since 1950 — roughly one language silenced every two weeks, with 146 languages having fewer than 10 speakers remaining."
 }
